@@ -26,3 +26,4 @@ F:\Projects\.NET first project\GameStore\obj\Debug\net9.0\refint\GameStore.dll
 F:\Projects\.NET first project\GameStore\obj\Debug\net9.0\GameStore.pdb
 F:\Projects\.NET first project\GameStore\obj\Debug\net9.0\GameStore.genruntimeconfig.cache
 F:\Projects\.NET first project\GameStore\obj\Debug\net9.0\ref\GameStore.dll
+F:\Projects\.NET first project\GameStore\obj\Debug\net9.0\GameStore.sourcelink.json
