@@ -27,3 +27,9 @@ F:\Projects\.NET first project\GameStore\obj\Debug\net9.0\GameStore.pdb
 F:\Projects\.NET first project\GameStore\obj\Debug\net9.0\GameStore.genruntimeconfig.cache
 F:\Projects\.NET first project\GameStore\obj\Debug\net9.0\ref\GameStore.dll
 F:\Projects\.NET first project\GameStore\obj\Debug\net9.0\GameStore.sourcelink.json
+F:\Projects\.NET first project\GameStore\obj\Debug\net9.0\GameStore.csproj.AssemblyReference.cache
+F:\Projects\.NET first project\GameStore\obj\Debug\net9.0\GameStore.MvcApplicationPartsAssemblyInfo.cs
+F:\Projects\.NET first project\GameStore\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\Projects\.NET first project\GameStore\bin\Debug\net9.0\MinimalApis.Extensions.dll
+F:\Projects\.NET first project\GameStore\bin\Debug\net9.0\MiniValidation.dll
+F:\Projects\.NET first project\GameStore\obj\Debug\net9.0\GameStore.csproj.Up2Date
